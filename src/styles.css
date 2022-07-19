@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import '../node_modules/font-awesome/css/font-awesome.min.css';
+
+
+/* body {
+  padding-top: 5rem;
+} */
+
+.greeting {
+  color: white;
+  margin-right: 1em;
+}
+
+amplify-authenticator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  height: 100vh;
+}
+
+/* Mandy */
+/* [name=secondary-footer-content] span { display: none} */
+
+/* Rene */
+/* slot[name=secondary-footer-content] { display: none} */
+
+:root {
+  --amplify-primary-color: #3b5998;
+  --amplify-primary-tint: #27488f;
+  --amplify-primary-shade: #112653;
+}
+
+/* Utilities */
+.unique-content {
+  padding-top: 8em;
+}
