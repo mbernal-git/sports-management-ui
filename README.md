@@ -42,7 +42,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 [https://dev.azure.com/project-sandrock/sports-management-ui](https://dev.azure.com/project-sandrock/sports-management-ui)
 
 
-## Deadlines
+## Deadline
 
 1. Oct 9, 2020 - Complete [Games Module ISSUE 1](https://dev.azure.com/project-sandrock/sports-management-ui/_workitems/edit/1/)
 
